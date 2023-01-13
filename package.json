@@ -1,6 +1,8 @@
 {
   "name": "project",
-  "dependencies": {},
+  "dependencies": {
+    "@babel/standalone": "^7.20.12"
+  },
   "devDependencies": {
     "vite": "latest"
   },
