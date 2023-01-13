@@ -12,6 +12,4 @@ const SectionProject=(
     </div>
 )
 
-
-
 ReactDOM.render(SectionProject,document.getElementById("root"))
